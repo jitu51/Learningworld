@@ -1,0 +1,42 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val SkyCerulean = Color(0xFF1E88E5)
+val SkyTurquoise = Color(0xFF2EC4B6)
+val SunburstAmber = Color(0xFFFF9F1C)
+val MeadowGreen = Color(0xFF43AA8B)
+val BerryCoral = Color(0xFFFF5D8F)
+val StorybookIndigo = Color(0xFF3D5A80)
+val LavenderMagic = Color(0xFF7B61FF)
+val WarmGold = Color(0xFFFFC300)
+
+val CreamCanvas = Color(0xFFFFFDF7)
+val CloudWhite = Color(0xFFFFFFFF)
+val SoftPeachContainer = Color(0xFFFFF1E0)
+val SoftMintContainer = Color(0xFFE3F9F4)
+val SoftSkyContainer = Color(0xFFE5F3FF)
+val SoftLavenderContainer = Color(0xFFF0ECFF)
+val SlateInk = Color(0xFF1E293B)
+val MutedSlate = Color(0xFF52637A)
+val SoftOutline = Color(0xFFE2E8F0)
+
+val TwilightCanvas = Color(0xFF121A2B)
+val TwilightSurface = Color(0xFF1C273F)
+val TwilightElevated = Color(0xFF243352)
+val TwilightInk = Color(0xFFF8FAFC)
+val TwilightMuted = Color(0xFFCBD5E1)
+val TwilightAmber = Color(0xFFFFB74D)
+val TwilightTeal = Color(0xFF4FD1C5)
+val TwilightCoral = Color(0xFFFF85A8)
+
+val WorldEnglishColor = Color(0xFF2563EB)
+val WorldMathColor = Color(0xFFF59E0B)
+val WorldBanglaColor = Color(0xFF059669)
+val WorldScienceColor = Color(0xFF7C3AED)
+val WorldGkColor = Color(0xFF0891B2)
+val WorldLogicColor = Color(0xFFDB2777)
+val WorldStoryColor = Color(0xFFEA580C)
+val WorldArtColor = Color(0xFFE11D48)
+val WorldMemoryColor = Color(0xFF4F46E5)
+val WorldRealLifeColor = Color(0xFF16A34A)

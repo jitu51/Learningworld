@@ -1,0 +1,6 @@
+{
+  "name": "Learning World",
+  "description": "Kids Learning World – The Adventure of Knowledge: interactive educational adventure game for ages 5–8 with 10 learning worlds, bilingual English/Bengali AI tutor, Google Maps explorer, and AI creative studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

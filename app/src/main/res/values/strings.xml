@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Learning World</string>
+    <string name="welcome_banner_title">Welcome to Your Learning World!</string>
+    <string name="welcome_banner_subtitle">Play, explore, and discover something magical every day.</string>
+    <string name="start_adventure">Start Adventure</string>
+    <string name="daily_challenge">Daily Challenge</string>
+    <string name="daily_plan_title">30-Min Daily Plan</string>
+    <string name="my_progress">My Progress</string>
+    <string name="achievements">Achievements</string>
+    <string name="parent_dashboard">Parent Zone</string>
+    <string name="ai_tutor_title">Professor Hoot (AI Tutor)</string>
+    <string name="ai_tutor_short">AI Tutor</string>
+    <string name="listen_button">Listen</string>
+    <string name="repeat_button">Repeat</string>
+    <string name="hint_button">Hint</string>
+    <string name="parent_gate_title">Parent Check</string>
+    <string name="parent_gate_subtitle">Solve this quick math puzzle to enter the Parent Dashboard.</string>
+    <string name="ai_disabled_by_parent">AI features are currently paused in Parent Settings. Ask a parent to enable them, or use Offline Teacher Mode!</string>
+    <string name="parent_privacy_title">About, Privacy &amp; Child Safety</string>
+    <string name="parent_privacy_summary">All learning progress, badges, and daily logs stay locally on this device. This app has zero ads, no social links, and no in-app purchases. Microphone access is used only when your child taps Speak, and Cloud AI Tutor/Art can be paused anytime above.</string>
+    <string name="view_data_safety_button">View Privacy &amp; Data Safety Details</string>
+    <string name="privacy_modal_title">Privacy &amp; Data Safety Disclosure</string>
+    <string name="privacy_modal_body">• Personal Info: We do not collect names, emails, location, or photos.\n• Local Storage: Quests, stars, badges, and daily streaks stay stored locally on this device.\n• Microphone: Used only when Speak is tapped in voice games, with a full typing fallback.\n• Optional Cloud AI: When enabled by a parent above, Professor Hoot sends only the learning question or art idea to Gemini via Firebase AI Logic. Turn the switch off anytime for 100% Offline Mode.\n• Child Safety: Zero ads, zero in-app purchases, zero social media links, and math-gated parent controls.</string>
+    <string name="copy_report_button">Copy Weekly Progress Summary</string>
+    <string name="report_copied_msg">Progress summary copied to clipboard!</string>
+</resources>
